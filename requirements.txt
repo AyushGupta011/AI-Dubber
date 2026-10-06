@@ -1,0 +1,18 @@
+# Dubber dependencies
+yt-dlp
+faster-whisper
+torch
+transformers
+sentencepiece
+protobuf
+sacremoses
+edge-tts
+soundfile
+numpy
+scipy
+librosa
+tqdm
+rich
+imageio-ffmpeg
+pytest
+TTS
