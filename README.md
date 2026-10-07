@@ -77,7 +77,7 @@ flowchart TD
 ### Quickstart Setup
 ```powershell
 # 1. Clone or navigate to the repository
-cd C:\Users\AYUSH GUPTA\Desktop\AI-dubbing
+git clone https://github.com/AyushGupta011/AI-Dubber
 
 # 2. Create virtual environment
 python -m venv .venv
